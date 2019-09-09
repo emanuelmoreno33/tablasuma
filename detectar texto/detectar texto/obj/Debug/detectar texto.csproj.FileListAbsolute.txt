@@ -1,0 +1,20 @@
+D:\Usuarios\Emanuel\Documentos\Proyectos\detectar texto\detectar texto\bin\Debug\detectar texto.exe.config
+D:\Usuarios\Emanuel\Documentos\Proyectos\detectar texto\detectar texto\bin\Debug\detectar texto.exe
+D:\Usuarios\Emanuel\Documentos\Proyectos\detectar texto\detectar texto\bin\Debug\detectar texto.pdb
+D:\Usuarios\Emanuel\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar texto.csprojAssemblyReference.cache
+D:\Usuarios\Emanuel\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar_texto.Form1.resources
+D:\Usuarios\Emanuel\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar_texto.Properties.Resources.resources
+D:\Usuarios\Emanuel\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar texto.csproj.GenerateResource.cache
+D:\Usuarios\Emanuel\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar texto.csproj.CoreCompileInputs.cache
+D:\Usuarios\Emanuel\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar texto.exe
+D:\Usuarios\Emanuel\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar texto.pdb
+F:\Emanuel 2019\Documentos\Proyectos\detectar texto\detectar texto\bin\Debug\detectar texto.exe.config
+F:\Emanuel 2019\Documentos\Proyectos\detectar texto\detectar texto\bin\Debug\detectar texto.exe
+F:\Emanuel 2019\Documentos\Proyectos\detectar texto\detectar texto\bin\Debug\detectar texto.pdb
+F:\Emanuel 2019\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar texto.csprojAssemblyReference.cache
+F:\Emanuel 2019\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar_texto.Form1.resources
+F:\Emanuel 2019\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar_texto.Properties.Resources.resources
+F:\Emanuel 2019\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar texto.csproj.GenerateResource.cache
+F:\Emanuel 2019\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar texto.csproj.CoreCompileInputs.cache
+F:\Emanuel 2019\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar texto.exe
+F:\Emanuel 2019\Documentos\Proyectos\detectar texto\detectar texto\obj\Debug\detectar texto.pdb
