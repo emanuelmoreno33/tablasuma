@@ -1,5 +1,5 @@
 # tablasuma
-**Detecta una operacion con dos numeros y un operador, ocupa finalizacion de linea.
+**Detecta una operacion con dos numeros y un operador, ocupa finalizacion de linea.**
 
 **Realizado por**
 
