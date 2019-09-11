@@ -48,7 +48,7 @@
             // 
             // btndetectar
             // 
-            this.btndetectar.Location = new System.Drawing.Point(559, 26);
+            this.btndetectar.Location = new System.Drawing.Point(472, 26);
             this.btndetectar.Name = "btndetectar";
             this.btndetectar.Size = new System.Drawing.Size(98, 52);
             this.btndetectar.TabIndex = 2;
@@ -58,7 +58,7 @@
             // 
             // btnlimpiar
             // 
-            this.btnlimpiar.Location = new System.Drawing.Point(559, 84);
+            this.btnlimpiar.Location = new System.Drawing.Point(472, 84);
             this.btnlimpiar.Name = "btnlimpiar";
             this.btnlimpiar.Size = new System.Drawing.Size(98, 46);
             this.btnlimpiar.TabIndex = 6;
@@ -90,7 +90,7 @@
             "ocho",
             "nuevo",
             "cero"});
-            this.listBox1.Location = new System.Drawing.Point(12, 180);
+            this.listBox1.Location = new System.Drawing.Point(12, 111);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(120, 180);
             this.listBox1.TabIndex = 8;
@@ -98,7 +98,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 160);
+            this.label2.Location = new System.Drawing.Point(12, 91);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(65, 17);
             this.label2.TabIndex = 9;
@@ -107,7 +107,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(190, 160);
+            this.label3.Location = new System.Drawing.Point(190, 91);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(89, 17);
             this.label3.TabIndex = 11;
@@ -123,7 +123,7 @@
             "multiplicar con",
             "dividir entre",
             "es igual a"});
-            this.listBox2.Location = new System.Drawing.Point(190, 180);
+            this.listBox2.Location = new System.Drawing.Point(190, 111);
             this.listBox2.Name = "listBox2";
             this.listBox2.Size = new System.Drawing.Size(120, 180);
             this.listBox2.TabIndex = 10;
@@ -132,7 +132,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(689, 407);
+            this.ClientSize = new System.Drawing.Size(582, 306);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.listBox2);
             this.Controls.Add(this.label2);
@@ -142,7 +142,7 @@
             this.Controls.Add(this.btndetectar);
             this.Controls.Add(this.txttexto);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Detectar operaciones";
             this.ResumeLayout(false);
             this.PerformLayout();
 

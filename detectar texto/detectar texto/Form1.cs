@@ -116,9 +116,17 @@ namespace detectar_texto
                                         operacionvalida = true;
                                         break;
                                     case "dividirentre":
-                                        total = numero1 / numero2;
-                                        operacionvalida = true;
-                                        break;
+                                        try
+                                        {
+                                            total = numero1 / numero2;
+                                            operacionvalida = true;
+                                            break;
+                                        }
+                                        catch(Exception)
+                                        {
+                                            MessageBox.Show("No se permite la division entre cero");
+                                            break;
+                                        }
                                 }
                             }
                         }
