@@ -10,5 +10,5 @@
 -Moreno Ramos Emanuel - 16212046
 <br>
 -Santizo Diaz Mario - 16212077
-<br>
+<br><br>
 Realizado en C#
